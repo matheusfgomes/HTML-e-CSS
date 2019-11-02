@@ -1,0 +1,26 @@
+body{
+   background-color: rgb(195, 228, 223); 
+   color: rgb(6, 6, 141);
+   font-size: 20px;
+}
+
+p{
+    font: arial;
+    color: rgb(153, 4, 4);
+    font-size: 26px;
+}
+
+h1{
+    font: sans-serif;
+    font-size: 32px;
+}
+
+h2{
+    font: serif;
+    font-size: 29px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+     width : 60px ; height: 40px
+}
